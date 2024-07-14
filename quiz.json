@@ -1,19 +1,79 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of stock markets.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is NYSE?",
+      "answers": ["Exchange", "Market", "Fund"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is a stock?",
+      "answers": ["Share", "Bond", "Option"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is NASDAQ?",
+      "answers": ["Index", "Bond", "Fund"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an ETF?",
+      "answers": ["Fund", "Bond", "Share"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a bull market?",
+      "answers": ["Rising", "Falling", "Stable"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a bear market?",
+      "answers": ["Falling", "Rising", "Stable"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a dividend?",
+      "answers": ["Payout", "Bond", "Share"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a portfolio?",
+      "answers": ["Holdings", "Bond", "Index"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a blue-chip stock?",
+      "answers": ["Stable", "Small", "Risky"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a market cap?",
+      "answers": ["Value", "Price", "Index"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an IPO?",
+      "answers": ["Offering", "Option", "Bond"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a stockbroker?",
+      "answers": ["Trader", "Analyst", "Banker"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a stock split?",
+      "answers": ["Division", "Merge", "Buy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a mutual fund?",
+      "answers": ["Pooled", "Private", "Bond"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the S&P 500?",
+      "answers": ["Index", "Fund", "Bond"],
       "correctAnswerIndex": 0
     }
   ]
